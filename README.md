@@ -1,4 +1,4 @@
-#🚧 Proyecto en construcción 🚧
+# :construction: Proyecto en construcción :construction:
 
 
 ### Sonia Morales - Portfolio Creativo
