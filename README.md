@@ -2,17 +2,18 @@
 
 [========]
 
-### Sonia Morales - Portfolio Creativo
+## Sonia Morales - Portfolio Creativo
 
-------------
+[========]
 
 ##### Proyecto final de BA Multiplica 2.0
 
 > Portfolio creativo personal &amp; laboral
 
-------------
+[========]
 
-Portfolio como,
+
+> Portfolio como,
 
 - :ballot_box_with_check: Diseñadora Grafica.
 - :ballot_box_with_check: Desarrolladora Web.
@@ -21,15 +22,13 @@ Portfolio como,
 
 [========]
 
-------------
 
 ##### :computer: Lenguaje usado
 |`<HTML>` | `<CSS>` | `<JAVASCRIPT>`|
 
 [========]
 
-------------
 
-###### Contacto
-:e-mail: soy.soniamorales@gmail.com
+###### :e-mail: Contacto 
+:mailbox: soy.soniamorales@gmail.com
 
