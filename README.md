@@ -10,5 +10,7 @@ Portfolio como...
 :ballot_box_with_check: Diseñadora ux/ui
 :soon: Tester QA
 
+![HTML] ![CSS] ![Javascript]
+
 
 
