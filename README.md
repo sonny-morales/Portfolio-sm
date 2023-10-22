@@ -6,10 +6,6 @@
 ## Sonia Morales - Portfolio Creativo
 
 
-------------
-
-
-
 ##### Proyecto final de BA Multiplica 2.0
 
 > Portfolio creativo personal &amp; laboral
@@ -31,7 +27,7 @@
 
 
 ##### :computer: Lenguaje usado
-|`<HTML>` | `<CSS>` | `<JAVASCRIPT>`|
+`<HTML>`  `<CSS>`  `<JAVASCRIPT>`
 
 
 ------------
