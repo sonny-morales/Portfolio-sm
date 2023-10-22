@@ -7,11 +7,11 @@
 
 #### Proyecto final de BA Multiplica 2.0
 
-###### &ge;Portfolio creativo personal &amp; laboral
+###### :grey_exclamation: Portfolio creativo personal &amp; laboral
 
 ------------
 
-###### &ge;Portfolio como,
+###### :grey_exclamation: Portfolio como,
 
 - :ballot_box_with_check: Diseñadora Grafica.
 - :ballot_box_with_check: Desarrolladora Web.
