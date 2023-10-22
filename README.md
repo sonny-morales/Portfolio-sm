@@ -7,11 +7,11 @@
 
 #### Proyecto final de BA Multiplica 2.0
 
-&ge;###### Portfolio creativo personal &amp; laboral
+###### &ge; Portfolio creativo personal &amp; laboral
 
 ------------
 
-&ge;###### Portfolio como,
+###### &ge; Portfolio como,
 
 - :ballot_box_with_check: Diseñadora Grafica.
 - :ballot_box_with_check: Desarrolladora Web.
